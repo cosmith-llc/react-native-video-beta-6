@@ -1,16 +1,16 @@
 {
-    "name": "react-native-video",
-    "version": "6.0.0-beta.5",
+    "name": "react-native-video-beta-6",
+    "version": "1.0.1",
     "description": "A <Video /> element for react-native",
     "main": "lib/index",
     "source": "src/index",
     "react-native": "src/index",
     "license": "MIT",
-    "author": "Community Contributors",
-    "homepage": "https://github.com/react-native-video/react-native-video#readme",
+    "author": "gskachkov@gmail.com",
+    "homepage": "https://github.com/cosmith-llc/react-native-video-beta-6",
     "repository": {
         "type": "git",
-        "url": "git@github.com:react-native-video/react-native-video.git"
+        "url": "git@github.com:cosmith-llc/react-native-video-beta-6.git"
     },
     "resolutions": {
         "@types/react": "~18.0.0"
